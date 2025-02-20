@@ -1,0 +1,34 @@
+[
+    {
+        "city": "New York",
+        "weather": "clear sky",
+        "temperature": -1.53
+    },
+    {
+        "city": "London",
+        "weather": "overcast clouds",
+        "temperature": 8.1
+    },
+    {
+        "city": "Tokyo",
+        "weather": "clear sky",
+        "temperature": 1.1
+    }
+]
+[
+    {
+        "city": "New York",
+        "weather": "broken clouds",
+        "temperature": -0.59
+    },
+    {
+        "city": "London",
+        "weather": "overcast clouds",
+        "temperature": 7.88
+    },
+    {
+        "city": "Tokyo",
+        "weather": "clear sky",
+        "temperature": 1.1
+    }
+]

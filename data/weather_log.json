@@ -1,0 +1,102 @@
+[
+    {
+        "city": "New York",
+        "weather": "clear sky",
+        "temperature": -0.83
+    },
+    {
+        "city": "London",
+        "weather": "overcast clouds",
+        "temperature": 7.81
+    },
+    {
+        "city": "Tokyo",
+        "weather": "clear sky",
+        "temperature": 1.1
+    }
+]
+[
+    {
+        "city": "New York",
+        "weather": "scattered clouds",
+        "temperature": -5.73
+    },
+    {
+        "city": "London",
+        "weather": "overcast clouds",
+        "temperature": 12.34
+    },
+    {
+        "city": "Tokyo",
+        "weather": "clear sky",
+        "temperature": 3.39
+    }
+]
+[
+    {
+        "city": "New York",
+        "weather": "scattered clouds",
+        "temperature": -5.48
+    },
+    {
+        "city": "London",
+        "weather": "overcast clouds",
+        "temperature": 12.35
+    },
+    {
+        "city": "Tokyo",
+        "weather": "clear sky",
+        "temperature": 3.39
+    }
+]
+[
+    {
+        "city": "New York",
+        "weather": "scattered clouds",
+        "temperature": -5.48
+    },
+    {
+        "city": "London",
+        "weather": "overcast clouds",
+        "temperature": 12.35
+    },
+    {
+        "city": "Tokyo",
+        "weather": "clear sky",
+        "temperature": 3.39
+    }
+]
+[
+    {
+        "city": "New York",
+        "weather": "scattered clouds",
+        "temperature": -5.34
+    },
+    {
+        "city": "London",
+        "weather": "moderate rain",
+        "temperature": 12.35
+    },
+    {
+        "city": "Tokyo",
+        "weather": "clear sky",
+        "temperature": 3.23
+    }
+]
+[
+    {
+        "city": "New York",
+        "weather": "clear sky",
+        "temperature": -4.2
+    },
+    {
+        "city": "London",
+        "weather": "overcast clouds",
+        "temperature": 12.74
+    },
+    {
+        "city": "Tokyo",
+        "weather": "broken clouds",
+        "temperature": 2.7
+    }
+]

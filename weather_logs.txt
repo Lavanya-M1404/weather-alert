@@ -1,0 +1,7 @@
+2025-02-19 23:20:02,494 - ERROR - Error fetching weather for palakkad: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=palakkad&appid=5205abee21d0a9848c3187a8c385942f&units=metric
+2025-02-19 23:20:15,019 - ERROR - Error fetching weather for london: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=london&appid=5205abee21d0a9848c3187a8c385942f&units=metric
+2025-02-19 23:20:53,239 - ERROR - Error fetching weather for London, GB: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=London%2C+GB&appid=5205abee21d0a9848c3187a8c385942f&units=metric
+2025-02-19 23:23:40,143 - INFO - Weather data fetched for London, GB
+2025-02-19 23:23:40,146 - INFO - Weather data logged for London, GB
+2025-02-19 23:26:31,471 - INFO - Weather data fetched for Bengaluru, IN
+2025-02-19 23:26:31,473 - INFO - Weather data logged for Bengaluru, IN

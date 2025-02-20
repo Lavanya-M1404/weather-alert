@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  weather-alert:
+    image: weather-alert
+    container_name: weather-alert-container
+    environment:
+      - WEATHER_API_KEY=5205abee21d0a9848c3187a8c385942f
+    volumes:
+      - ./data:/app/data
+    restart: always
+
